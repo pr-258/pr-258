@@ -28,6 +28,7 @@ My primary expertise is in the JavaScript/TypeScript world (React, Node.js) for 
 - **Design**: Skilled in UI/UX design with tools like Figma, and Adobe Creative Suite
 <br />
 <br />
+
 [![Java Badge](https://img.shields.io/badge/-Java-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=007396)](#) [![Spring Boot Badge](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=for-the-badge&labelColor=black&logo=spring&logoColor=6DB33F)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Next.js Badge](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&labelColor=black&logo=next.js&logoColor=white)](#) [![TypeScript Badge](https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
 
 
@@ -38,6 +39,7 @@ My primary expertise is in the JavaScript/TypeScript world (React, Node.js) for 
   My Tech journey
 </summary>
 <br>
+
 #### Professional Journey
 
 Started as an entrepreneur doing digital marketing solutions to building solutions for NGOs and local businesses. Now transitioning to focus on java full stack spring ecosystem for enterprise grade systems while bringing unique international experience and business acumen to development teams.
